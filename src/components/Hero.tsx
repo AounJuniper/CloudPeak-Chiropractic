@@ -80,7 +80,7 @@ export default function Hero() {
               "
             >
               <img
-                src="https://images.squarespace-cdn.com/content/v1/638e0fffa08c6c660d9c95f9/8970254f-8a17-4f44-a8e2-d7a7d64b5401/WesternPlainsChiropractic-cutting-edge-techniques-Gillette.jpg?format=1000w"
+                src="https://images.squarespace-cdn.com/content/v1/53f8ea76e4b0586eb80b8a9c/03ce189b-72e4-460a-a0a4-ecd5274fdf0d/CloudPeakChiroWellness_2020_014b+sutro.jpg?format=750w"
                 alt="Clinical Session"
                 className="w-full h-full object-cover object-center"
               />
